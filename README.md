@@ -9,7 +9,7 @@ can lead to expensive charges lengthy operations or failures from timeouts.
 * Detects socket leaks
 * Detects excess timers
 * Works with mocha's timeout system
-* Works with Node 4.3.2+
+* Works with Node 6.10.x
 
 ## Installation
 Install via npm.
