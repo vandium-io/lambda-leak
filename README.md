@@ -44,7 +44,7 @@ describe( 'myModule', function() {
                     return done( err );
                 }
 
-                let difference = state..getDifferenceInHandles();
+                let difference = state.getDifferenceInHandles();
 
                 if( difference.length > 0 ) {
 
